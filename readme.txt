@@ -13,6 +13,7 @@ Selenium 4.0
     WindowType.WINDOW to newWindow()
 
 
+
     driver.get(https://www.google.com/);
     driver.switchTo().newWindow(WindowType.TAB);
     driver.navigate().to(https://www.softwaretestingmaterial.com/);
